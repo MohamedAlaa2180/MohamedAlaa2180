@@ -2,6 +2,7 @@
 
 I'm an ingenious and dynamic Unity Developer with over 4 years of experience in Unity Development including mobile games AND VR / AR products
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MohamedAlaa2180)](https://git.io/streak-stats)
 <!--
 **MohamedAlaa2180/MohamedAlaa2180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
